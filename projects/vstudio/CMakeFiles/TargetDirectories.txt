@@ -1,0 +1,14 @@
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/png-fix-itxt.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/pngtest.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/genfiles.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/png.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/pngfix.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/png_static.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/pngvalid.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/pngunknown.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/pngstest.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/pngimage.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/RUN_TESTS.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/ALL_BUILD.dir
+C:/Development/op3d_active/libpng-1.6.37/msvc/CMakeFiles/ZERO_CHECK.dir
